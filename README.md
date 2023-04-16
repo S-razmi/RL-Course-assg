@@ -5,7 +5,6 @@
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 This repository contains all the assignments I've completed as part of my Reinforcement Learning course at the University of Tehran. Each assignment is stored in a separate folder, named according to the assignment number. Each folder contains the assignment instructions, report, and the code I've written to complete the assignment.
@@ -27,11 +26,8 @@ In each assignment folder, you'll find a README.md file that provides a brief ov
 The assignments in this repository were completed using a variety of technologies, including:
 - Python
 - NumPy
-- TensorFlow
+- Pytorch
 - OpenAI Gym
 
 ## Contributing
 This repository is my personal collection of assignments, so I'm not currently accepting contributions. However, I'm always happy to receive feedback and suggestions for improvement. If you have any comments or suggestions, feel free to contact me.
-
-## License
-This repository is licensed under the MIT license. See the `LICENSE` file for more information.
